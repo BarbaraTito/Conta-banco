@@ -28,8 +28,8 @@ public class BancoTerminal{
         public static String nomeCompleto (String primeiroNome, String segundoNome){
             return " Cliente "  + primeiroNome.concat(" ").concat(segundoNome);
         }
-            
         
+}
         
         
         
@@ -48,5 +48,5 @@ public class BancoTerminal{
     
 
 
-}
+
 
