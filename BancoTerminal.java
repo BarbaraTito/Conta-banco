@@ -13,7 +13,7 @@ public class BancoTerminal{
                 String segundoNome = "Andrade";
         
                 String nomeBanco = nomeBanco (meu,bancoSim);
-                System.out.println(nomeBanco);
+                System.out.print(nomeBanco);
 
                 String nomeCompleto = nomeCompleto (primeiroNome,segundoNome);
                 System.out.print(nomeCompleto);
